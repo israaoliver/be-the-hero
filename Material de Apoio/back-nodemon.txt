@@ -1,0 +1,13 @@
+Serve para vigiar é resetar o codigo quando for feitar alguma alteração
+
+*instalar
+// -D : serve para não instalar como dependencia do projeto no package.jason vai ficar como dependencia do Desenvolvedor 
+npm install nodemon -D
+
+
+*usar
+alterar no package.json o /* "test": "echo z"Error: no test specified\" && exit 1" *//
+por
+/* "start" : "nodemon index.js" 
+executar 
+npm start
