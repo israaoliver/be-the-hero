@@ -55,9 +55,9 @@ O bando de dados utilizado foi o Sqlite usamos a ferramenta [Knex](http://knexjs
 + Listar Casos de uma ONG especifica
   + GET : */profile*
 + Listar, Cadastrar e Deletar Casos(incidents)
-  + GET : *incidents*
-  + POST: *incidents*
-  + DELETE : *incidents/:id*
+  + GET : */incidents*
+  + POST: */incidents*
+  + DELETE : */incidents/:id*
 
 
 
