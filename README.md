@@ -46,7 +46,7 @@ O bando de dados utilizado foi o Sqlite usamos a ferramenta [Knex](http://knexjs
   > npx knex init
 + [Migrations](https://github.com/israaoliver/Be-the-Hero-ProjetoSemanaOmniStack-11/blob/master/Material%20de%20Apoio/Migrations.txt)
 
-### API EndPoints/Funcionalidades
+### API - EndPoints/Funcionalidades
 + Login de ONG
   + POST : */session*
 + Cadastro, Listar ONG
