@@ -1,6 +1,6 @@
 # Be-the-Hero-ProjetoSemanaOmniStack-11
 
-<img src="https://user-images.githubusercontent.com/54954718/77683596-6389fb80-6f77-11ea-8208-9e70aae84509.png" width="250" height="250">
+<img src="https://user-images.githubusercontent.com/54954718/77695213-2da24280-6f8a-11ea-9661-735e5da2b0a0.png" width="330" height="200">
 
 ## Sobre o Projeto
 
@@ -44,7 +44,7 @@ O bando de dados utilizado foi o Sqlite usamos a ferramenta [Knex](http://knexjs
 + Conexão com o banco atravez do [Knex](http://knexjs.org/) 
   + Cria o arquivo *knexfile.js* onde esta as cofigurações de conexão
   > npx knex init
-+ [Migrations]()
++ [Migrations](https://github.com/israaoliver/Be-the-Hero-ProjetoSemanaOmniStack-11/blob/master/Material%20de%20Apoio/Migrations.txt)
 
 
 
