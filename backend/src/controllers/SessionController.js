@@ -13,7 +13,7 @@ module.exports = {
         if(!ong)
         {
             return response.status(400).json({
-                 erro: 'No ONG found with this ID' 
+                erro: 'No ONG found with this ID' 
                 });
         }
 
