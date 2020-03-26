@@ -6,8 +6,13 @@ npm install nodemon -D
 
 
 *usar
-alterar no package.json o /* "test": "echo z"Error: no test specified\" && exit 1" *//
+alterar no package.json o 
+/* 
+"test": "echo z"Error: no test specified\" && exit 1" 
+*//
 por
-/* "start" : "nodemon index.js" 
-executar 
+/* 
+"start" : "nodemon index.js" 
+
+*executar 
 npm start

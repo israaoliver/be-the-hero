@@ -1,0 +1,19 @@
+ Criar migrations
+ *Dentro do development que esta no aquivo knexfile.js, especificar o caminho onde a migration vai ser criada colocar
+	migrations: {
+	     directory: './escrever-o-caminho-desejado'
+	},
+	useNullAsDefault: true,
+
+
+executar:  npx knex migrate:make "nome_da_migration"  
+
+Agr dentro da migration seguir as configurações de criação de tabela que o knex fala (http://knexjs.org/#Schema-createTable)
+
+Em seguida executar o comando abaixo que ira criar a tabela no BD
+ * npx knex migrate:latest
+
+Caso vc fez merda executar o comando abaixo para desfazer uma migration
+ * npx knex migrate:latest
+
+

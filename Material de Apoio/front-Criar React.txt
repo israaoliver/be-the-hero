@@ -1,1 +1,2 @@
+*npx : como se fosse o npm mais ao o invez de instalar um pacote, ele executa um pacote externo
 npx create-react-app nomeDaApp

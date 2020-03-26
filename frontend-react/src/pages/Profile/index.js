@@ -60,7 +60,7 @@ export default function Profile(){
 
             <ul>
                     {incident.map(incident =>(
-                     <li key={incident.id}>
+                    <li key={incident.id}>
                         <strong>CASO:</strong>
                         <p>{incident.title}</p>
     

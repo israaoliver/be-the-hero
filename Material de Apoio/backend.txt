@@ -1,0 +1,2 @@
+npm init -y 
+*vai criar o package.json
